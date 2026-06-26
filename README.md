@@ -90,12 +90,6 @@ Add your deployed application link here.
 
 GitHub: https://github.com/samarth8698
 
-## 🤝 Contributing
-
-Contributions are welcome. Feel free to fork this repository and submit a pull request.
-
-## 📄 License
-
 This project is developed for learning and educational purposes.
 
 ---
