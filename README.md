@@ -70,10 +70,6 @@ Example
 
 screenshots/home.png
 
-## 🌐 Live Demo
-
-Add your deployed application link here.
-
 ## 🎯 Future Enhancements
 
 - ✏️ Edit Todo
@@ -88,3 +84,7 @@ Add your deployed application link here.
 **Samarth Adhao**
 
 GitHub: https://github.com/samarth8698
+
+## 🌐 Live Application
+
+👉 https://todos-list-drab.vercel.app
