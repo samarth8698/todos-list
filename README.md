@@ -24,7 +24,6 @@ A simple, responsive, and user-friendly Todo List application built using **Reac
 ## 📂 Project Structure
 
 src
-│
 ├── MyComponents
 │   ├── Header.jsx
 │   ├── Footer.jsx
