@@ -78,13 +78,12 @@ screenshots/home.png
 - 🌙 Dark Mode
 - 💾 Local Storage Support
 - ☁️ Backend Integration
+  
+## 🌐 Live Application
+👉 https://todos-list-drab.vercel.app
 
 ## 👨‍💻 Developer ##
 
 **Samarth Adhao**
 
 GitHub: https://github.com/samarth8698
-
-## 🌐 Live Application
-
-👉 https://todos-list-drab.vercel.app
