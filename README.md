@@ -89,9 +89,3 @@ Add your deployed application link here.
 **Samarth Adhao**
 
 GitHub: https://github.com/samarth8698
-
-This project is developed for learning and educational purposes.
-
----
-
-⭐ If you found this project helpful, don't forget to give it a star on GitHub.
