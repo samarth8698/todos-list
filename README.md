@@ -40,22 +40,18 @@ src
 
 ### Clone Repository
 
-bash
 git clone https://github.com/samarth8698/todos-list.git
 
 ### Navigate to Project
 
-bash
 cd todos-list
 
 ### Install Dependencies
 
-bash
 npm install
 
 ### Start Development Server
 
-bash
 npm start
 
 Application runs on:
